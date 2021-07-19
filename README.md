@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**thaitam/thaitam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 hi. I'm Thai Silas
 
 - 🔭 I’m currently working as a environment creator and self-trainee fullstack developer.
